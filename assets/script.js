@@ -11,7 +11,7 @@ function writePassword() {
 }
 
 function.generatePassword(){
-
+  return "Temporary Password";
 }
 
 // Add event listener to generate button

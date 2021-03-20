@@ -11,6 +11,10 @@ function writePassword() {
 }
 
 function generatePassword() {
+  
+  // TODO: WRITE THE CODE THAT ASKS THE USER ABOUT THE PARAMETERS FOR THEIR PASSWORD
+  // TODO: USE THOSE PARAMETERS TO GENERATE A NEW PASSWORD
+  // TODO: RETURN THAT PASSWORD
   return "Temporary Password";
 }
 

@@ -10,7 +10,7 @@ function writePassword() {
 
 }
 
-function.generatePassword(){
+function generatePassword() {
   return "Temporary Password";
 }
 

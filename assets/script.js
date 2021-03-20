@@ -15,7 +15,6 @@ function generatePassword() {
   // TODO: WRITE THE CODE THAT ASKS THE USER ABOUT THE PARAMETERS FOR THEIR PASSWORD
   var text;
   var generateBtn = prompt("How many characters would you like your password to contain:", "enter number");
-  
   // TODO: USE THOSE PARAMETERS TO GENERATE A NEW PASSWORD
   
   // TODO: RETURN THAT PASSWORD

@@ -16,6 +16,18 @@ function generatePassword() {
   var text;
   var generateBtn = prompt("How many characters would you like your password to contain:", "enter number");
   
+  var generateBtn = prompt("Password must be at least 8 characters");
+  
+  var generateBtn = prompt("Password length must not exceed 129 characters");
+  
+  var generateBtn = prompt("Click OK to contain special characters");
+  
+  var generateBtn = prompt("Click OK to contain numeric characters");
+  
+  var generateBtn = prompt("Click OK to contain uppercase characters");
+  
+  var generateBtn = prompt("Click OK to contain lowercase characters");
+
   // TODO: USE THOSE PARAMETERS TO GENERATE A NEW PASSWORD
   
   // TODO: RETURN THAT PASSWORD

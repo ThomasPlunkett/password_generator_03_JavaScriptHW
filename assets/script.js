@@ -15,8 +15,6 @@ function generatePassword() {
   // TODO: WRITE THE CODE THAT ASKS THE USER ABOUT THE PARAMETERS FOR THEIR PASSWORD
   var text;
   var generateBtn = prompt("How many characters would you like your password to contain:", "enter number");
-    generateBtn.addEventListener("click", function() {
-     
   
   // TODO: USE THOSE PARAMETERS TO GENERATE A NEW PASSWORD
   
@@ -27,5 +25,7 @@ function generatePassword() {
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
 
+// Add event listener to generate button
+generateBtn.add
 // code for first prompt: but remove tagname needs to listen for click generate password
 // var tagName = prompt("How many characters would you like your password to contain:", "enter number");
